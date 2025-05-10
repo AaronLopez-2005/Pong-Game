@@ -1,4 +1,6 @@
 /src
 Makefile
 /.vscode
-SDL2.dll
+*.dll
+/tutorial
+/functionsPhysics
